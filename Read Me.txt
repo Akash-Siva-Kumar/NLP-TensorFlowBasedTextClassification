@@ -1,0 +1,9 @@
+To run code.
+
+1. Upload the data file 'Real_Fake_News.txt' to Google Drive.
+
+2. Open the 'NLP_Real_Fake_News_Classifier.ipynb' on Google Colab.
+
+3. Give Run all
+
+ALL DETAILS ASSOCIATED WITH EACH CODE BLOCK AND ITS WORKING IS WELL COMMENTED IN CODE AND MADE SELF EXPLANATORY ~Akash
